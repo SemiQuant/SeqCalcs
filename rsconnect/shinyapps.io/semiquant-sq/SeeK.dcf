@@ -1,0 +1,13 @@
+name: SeeK
+title: SeeK
+username:
+account: semiquant-sq
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5340144
+bundleId: 5395271
+url: https://semiquant-sq.shinyapps.io/SeeK/
+when: 1640043517.66696
+lastSyncTime: 1640043517.66697
+asMultiple: FALSE
+asStatic: FALSE
